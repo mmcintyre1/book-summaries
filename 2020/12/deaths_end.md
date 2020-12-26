@@ -39,17 +39,23 @@ Wraps up the entire three book Remembrance of Earth's Past trilogy and the plot'
 Wallfacer and in a stasis with the Trisolarans because of the discovery of the dark forest deterrence theory. This book follows Cheng Xin, an erstwhile aerospace engineer and observer the the final days of the earth's solar system. Eventually, humanity triggers dark forest deterrence and Trisolaris is destroyed, confirming the dark forest theory and putting a real and unavoidable counter on the end of humanity in the Solar System. Eventually, the dark forest attack comes, which is an unavoidable crushing of three dimensional space into two dimensional space, and the entirety of Earth's Solar System is destroyed. Cheng Xin escapse on a curvature propelled lightspeed ship to the star Yun Tianming bought her to meet him. Yun Tianming is a brain that humanity shot into space to infiltrate the Trisolarans.
 
 ## Key Ideas
+### Cheng Xin's decisions
 Cheng Xin makes two decisions that decide the fate of humanity:
 
 1. Not to activate dark forest deterrence when faced with a Trisolaran attack
 2. Not to allow the lightspeed drive research to continue, dooming humanity to entombment once the Solar System lost a dimension
 
-These decisions
+I wonder what the ideology these decisions/indecisions really espouse is.
+
+### the descent of humanity
+I think a striking recurrence of this trilogy is that faced with catastrophe, humanity regresses to the worst version of itself -- destruction and chaos reign. I wonder how realistic this is -- for some devastating historical events, we've seen people rally together, but for others, the structures become completely destroyed. I wonder if the level of regression towards animalistic tendencies has any correlation with the strength of the culture of those being decimated. It might be those most devout who retain the most of their 'humanity' in crisis.
+
 
 ## Counter Ideas
+### Cixin Liu and china's communist party
 Just a thought, but Cixin Liu has been an outspoken proponent of the Chinese Communist Party. One of the quotes being bandied about is:
 
->> Would you rather that they be hacking away at bodies at train stations and schools in terrorist attacks? If anything, the government is helping their economy and trying to lift them out of poverty [...] If you were to loosen up the country a bit, the consequences would be terrifying.
+> Would you rather that they be hacking away at bodies at train stations and schools in terrorist attacks? If anything, the government is helping their economy and trying to lift them out of poverty [...] If you were to loosen up the country a bit, the consequences would be terrifying.
 
 I wonder how much this ideology seeps into the book. Cheng Xin's actions on their face were about 'love' as Gang Yuifan says at the end, but there is an undercurrent of submission to state and hegemony that can be argued underwrite all virtuous paths in the book.
 
