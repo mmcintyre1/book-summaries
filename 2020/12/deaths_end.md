@@ -45,7 +45,7 @@ Cheng Xin makes two decisions that decide the fate of humanity:
 1. Not to activate dark forest deterrence when faced with a Trisolaran attack
 2. Not to allow the lightspeed drive research to continue, dooming humanity to entombment once the Solar System lost a dimension
 
-I wonder what the ideology these decisions/indecisions really espouse is.
+I wonder what the ideology these decisions/indecisions really espouse is. Xin wants humanity "to be grand".
 
 ### the descent of humanity
 I think a striking recurrence of this trilogy is that faced with catastrophe, humanity regresses to the worst version of itself -- destruction and chaos reign. I wonder how realistic this is -- for some devastating historical events, we've seen people rally together, but for others, the structures become completely destroyed. I wonder if the level of regression towards animalistic tendencies has any correlation with the strength of the culture of those being decimated. It might be those most devout who retain the most of their 'humanity' in crisis.
@@ -57,17 +57,21 @@ Just a thought, but Cixin Liu has been an outspoken proponent of the Chinese Com
 
 > Would you rather that they be hacking away at bodies at train stations and schools in terrorist attacks? If anything, the government is helping their economy and trying to lift them out of poverty [...] If you were to loosen up the country a bit, the consequences would be terrifying.
 
-I wonder how much this ideology seeps into the book. Cheng Xin's actions on their face were about 'love' as Gang Yuifan says at the end, but there is an undercurrent of submission to state and hegemony that can be argued underwrite all virtuous paths in the book.
+I wonder how much this ideology seeps into the book. Cheng Xin's actions on their face were about 'love' as Guan Yifan says at the end, but there is an undercurrent of submission to state and hegemony that can be argued underwrite all virtuous paths in the book.
 
 There has been talk of canceling the upcoming Netflix adaptation, which I disagree with, although Liu does seem to be willing to at least parrot his country's talking points while they very clearly perpetuate human right's atrocities against the Uighur.
 
 ## Quotes
-N/A
+> The ultimate fate of all intelligent beings has always been to become as grand as their thoughts.
 
 ## Review
 Liu is a fantastic world builder and narrative crafter. His characters are still wooden and mostly plot devices. Cheng Xin also does a bit to set back compelling female characters in science fiction. Other than that though, the book pulled you back in like you were light trying to escape an event horizon. Narratively, it's his tightest book of the three and therefore least narratively ambitious, but it works for this story. I would say all three books in the series hew to different genres, and this one most closely resembles a space opera than any of the previous two, it is just couched in a hell of a well-crafted world.
 
 I find this book compelling on so many levels, and while I have a lot of loophole style questions about contradictions within the world Liu built (as in, if Trisolarans knew enough to know that there was a way to broadcast a safety message, why didn't they divulge it -- why were they so secretive when they were no longer going to earth?), I found the ideas immensely compelling and the plot well-paced. This is a good science fiction book, and while I know that Jemisin's conclusory novel **The Stone Sky** was an excellent science fiction book and was well-deserving of the Hugo, I could hear a compelling case that this book deserved it in 2017 over Jemisin's three-peat.
+
+There are so many wonderful tidbits in this book -- the ascent into four-dimensional space, the Ring tomb, the density of intelligent life in the universe, that I could wax poetic about for a long time.
+
+It's fitting in the 21st century, in the throes of a global and unrelenting pandemic, that the ultimate victory for Xin and Yifan and Sophon in the mini-universe is that human and Trisolaran civilization was grand enough to have a message sent in their language, to be remembered.
 
 ## Review Score
 4/5
