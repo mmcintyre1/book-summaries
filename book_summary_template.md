@@ -15,4 +15,5 @@
 ## Counter Ideas
 ## Quotes
 ## Review
+## Review Score
 ## Other Reading
