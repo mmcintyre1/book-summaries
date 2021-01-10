@@ -33,17 +33,23 @@ This book investigates why history proceeded differently for different people, a
 Everything stems from the jump to food production; writing, domestication of animals, social stratification, government, military, etc. This leads directly to the guns, germs, steel, (and animal domestication) that allowed one to be conqueror instead of conquered.
 ## Key Ideas
 **proximate vs ultimate causes**
+
 As an approach, we must distinguish between closely related causes and the ultimate causes thereof. For example, Pizarro tricked and kidnapped Atahualpa, the Incan god-emperor, and subdued the Incan empire, because he had vastly superior technology, horses, and the element of surprise. These are proximate causes -- the reason Pizarro had superior technology, horses, and the element of surprise is because Eurasian (and initially the Fertile Crescent) dominance in domesticable animals and plants.
 
+Think Independent (ultimate) vs Dependent (proximate) Causes and the five whys.
+
 **agriculture and diseases**
+
 Why was the flow of diseases so one-sided? As in, why did Native American Indians not infect the conquerors with diseases? This can be answered by the fact that Eurasian settlers came from societies with heavy usage of domesticated animals, the genesis of most virulent and wildly infectious diseases. In the Americas, there just weren't as many (if any) candidates for domestication as in Eurasia.
 
 **types of writing**
+
 *alphabets* - as far as we know, an alphabet only sprung up spontaneously in history (the Phoenician alphabet), and all subsequent alphabets were adopted from that
 *syllabary* - a set of characters representing syllables, and much more rare in writing than alphabets or the subsequent logography
 *logography* - pictures representing larger concepts rather than single consonants/vowels or phonemes
 
 **science of human history**
+
 Diamond argues for a more scientific approach to the study of human history, which shows throughout this book and in particular in the sections where he actually applies the rubric of history he identifies initially to subsequent continents. There is a reliance on linguistic history, radiocarbon dating, and archeological survey that particularly bolsters this claim and the book's central thesis.
 ## Counter Ideas
 A lot of the negative reviews you see take the form of a potentially legitimate criticism that inevitably devolves into a racial theory of history, as in, one of superior and inferior intelligences. None of these are legitimate. This book is stellar history.
@@ -56,6 +62,12 @@ An additional counter idea that isn't mired in racism is that Diamond relies on 
 
 > [...] technology develops cumulatively, rather than in isolated heroic acts, and that it finds most of its uses after it has been invented, rather than being invented to meet a foreseen need. (235)
 ## Review
+This book still feels timely stepping into 2021, and it's still a largely helpful refresher to fight against the racist ideology of racial determinism. We have seen a human institution in American Republicanism and Trumpism argue in subtle (and often deafening-clarion-loud) tones the tenets of racial determinism to demonize the other, and a lazy mind stops questioning at the first cause (it may be that the most important takeaway from this book is that a rigorous interrogation of causes unveils deeper, and often contradictory to the initial assessment, truth). White power at it's core is wrapped up in the white race's inherent exceptionalism when the reality belies any racial exceptionalism, and this book serves as a potent argument against the historical interpretation.
+
+The book can be dry and Diamond is actually at his best, if not most scientific, when he is imparting a metaphor or using narrative. In particular, the beginning to Chapter 3 involves a dramatic retelling of Pizarro's kidnapping of Atahualpa by reconstructing primary source tellings. Other times, like on the sixtieth retelling of how a particular region didn't have access to domesticable animals or plants, parachute the books momentum, although his application of his food production thesis across all continents is a compelling telling.
+
+Insofar as the Pulitzer is a mark of quality (I certainly am not in a place to comment on deservedness of the award compared to the competition), this book is a worthwhile entry.
+
 ## Review Score
 4/5
 ## Other Reading
