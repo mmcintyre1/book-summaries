@@ -66,7 +66,15 @@ Nabokov has such a way with language that you find yourself in solidarity with a
 > My notes and self are petering out. (300)
 
 Kinbote is tied inextricably with his notes.
+
+> These heart-rending dreams transformed the drab prose of his feelings for her into strong and strange poetry, subsiding undulations of which would flash and disturb him throughout the day, bringing back the pang and the richness -- and then only the pang, and then only its glancing reflection -- but not affecting at all his attitude towards the real Disa. (209)
+
 ## Review
+Is Pale Fire, the poem at the heart of this novel, itself a classic? It certainly insists upon itself, only to be tossed into the corner by Kinbote, the narrator who may or may not exist, and made to carry Kinbote's delusions in a sedan chair. The only reason I wouldn't immediately default to Pale Fire being its own masterpiece is the trepidation that Nabokov is playing some sort of game here, some sort of bait and switch or elaborate puzzle that means Pale Fire is really sarcasm and satire. One could be permitted though to ignore the layers and appreciate Pale Fire on its merits as a honeyed send-up to the 18th and 19th century masters of the heroic couplet.
+
+This might be Nabokov's finest novel. On my edition, Updike says that Nabokov writes prose 'ecstatically', which I think is pretty close to the mark. Nabokov's characters continue the modern tradition of the Buffoon, the jester, the performative stunt pilotry of word and phrase and metaphor hiding a deeply delusional character who can at once subdue their dream world through honeyed prose and be completely removed from the real. Depending on who you think is real or not real sways the interpretation of events, proving the greatest puzzle of the novel. One can omit the entirety of the subtext, however, and enjoy Pale Fire as both a poem and a delusional pre and post script novel and come away sated. This novel is one of the finest I've read.
 ## Review Score
 5/5
 ## Other Reading
+Speak, Memory - Nabokov
+Pnin - Nabokov
