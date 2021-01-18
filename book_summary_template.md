@@ -14,6 +14,7 @@
 ## Key Ideas
 ## Counter Ideas
 ## Quotes
+## Vocab
 ## Review
 ## Review Score
 ## Other Reading
