@@ -11,6 +11,7 @@
 ## Word Count
 ## Flesch Kincaid Level
 ## Synopsis
+## One Takeaway
 ## Key Ideas
 ## Counter Ideas
 ## Quotes
