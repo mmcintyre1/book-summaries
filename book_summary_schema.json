@@ -1,0 +1,196 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": null,
+  "title": "Book Summary Schema",
+  "description": "A schema for the json book summary entries.",
+  "type": "object",
+  "properties": {
+    "title": {
+      "description": "The book's title.",
+      "type": "string"
+    },
+    "author": {
+      "description": "The book's author.",
+      "type": "string"
+    },
+    "isbn": {
+      "description": "The book's 13 digit identifying number.",
+      "type": "string"
+    },
+    "reason_for_reading": {
+      "type": "string"
+    },
+    "publication_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "original_language": {
+      "type": "string"
+    },
+    "genre": {
+      "type": "string"
+    },
+    "start_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "finish_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "pages": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "word_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "flesh_kincaid_reading_level": {
+      "type": "number"
+    },
+    "synopsis": {
+      "type": "string"
+    },
+    "key_takeaway": {
+      "type": "string"
+    },
+    "key_ideas": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "topic_heading": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "topic_heading",
+            "text"
+          ]
+        }
+      ]
+    },
+    "counter_ideas": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "topic heading": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "topic heading",
+            "text"
+          ]
+        }
+      ]
+    },
+    "quotes": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "quote": {
+              "type": "string"
+            },
+            "page": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "quote",
+            "page"
+          ]
+        }
+      ]
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "word": {
+              "type": "string"
+            },
+            "part_of_speech": {
+              "type": "string"
+            },
+            "pronunciation": {
+              "type": "string"
+            },
+            "definition": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "word",
+            "part_of_speech",
+            "pronunciation",
+            "definition"
+          ]
+        }
+      ]
+    },
+    "review": {
+      "type": "string"
+    },
+    "review_score": {
+      "type": "number"
+    },
+    "other_reading": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "book_title": {
+              "type": "string"
+            },
+            "author": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "book_title",
+            "author"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "title",
+    "author",
+    "isbn",
+    "reason_for_reading",
+    "publication_date",
+    "original_language",
+    "genre",
+    "start_date",
+    "finish_date",
+    "pages",
+    "word_count",
+    "flesh_kincaid_reading_level",
+    "synopsis",
+    "key_takeaway",
+    "key_ideas",
+    "counter_ideas",
+    "quotes",
+    "vocabulary",
+    "review",
+    "review_score",
+    "other_reading"
+  ]
+}
