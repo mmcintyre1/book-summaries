@@ -4,7 +4,7 @@
 - [X] change from md to json
 - [X] create json schema
 - [ ] validate all json against json schema on pr
-- [ ] build a ui on top to make creation of book summaries easier
+- [ ] build a ui on top to make creation of book summaries easier (https://github.com/json-editor/json-editor)
 
 ## overview
 This is a repository meant to serve as a central location for the summaries of books I've read. The idea here is to be able to go back to these summaries and remember important or salient topics more readily. Most great ideas have already been expressed and real success lies in knowing how to curate and cultivate things others much smarter than myself have already said. Eventually, I'll be able to parse statistics on this. Once I have the fulltext, I use a few separate scripts to pull out things like word count and flesch kincaid score, and I think these data points are more illustrative of reading volume. I approach this like I approach everything, as in, obsessively.
