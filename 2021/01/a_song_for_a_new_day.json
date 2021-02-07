@@ -7,7 +7,7 @@
     {
       "first_name": "Sarah",
       "last_name": "Pinsker",
-      "description": ""
+      "description": null
     }
   ],
   "isbn": "9781984802583",
@@ -21,39 +21,21 @@
   "word_count": 116746,
   "flesh_kincaid_reading_level": 78.89,
   "synopsis": "In the Before, when the government didn't prohibit large public gatherings, Luce Cannon was on top of the world. One of her songs had just taken off and she was on her way to becoming a star. Now, in the After, terror attacks and deadly viruses have led the government to ban concerts, and Luce's connection to the world--her music, her purpose\u2014is closed off forever. She does what she has to do: she performs in illegal concerts to a small but passionate community, always evading the law.\r\n\r\nRosemary Laws barely remembers the Before times. She spends her days in Hoodspace, helping customers order all of their goods online for drone delivery\u2014no physical contact with humans needed. By lucky chance, she finds a new job and a new calling: discover amazing musicians and bring their concerts to everyone via virtual reality. The only catch is that she'll have to do something she's never done before and go out in public. Find the illegal concerts and bring musicians into the limelight they deserve. But when she sees how the world could actually be, that won\u2019t be enough.",
-  "key_takeaway": "",
-  "key_ideas": [
-    {
-      "topic_heading": "",
-      "text": ""
-    }
-  ],
-  "counter_ideas": [
-    {
-      "topic heading": "",
-      "text": ""
-    }
-  ],
+  "key_takeaway": "A full life requires congregation -- the coming together to share experience that enlivens humanity. Or maybe something about living in fear. Or corporations are nebulous entities.",
+  "key_ideas": [],
+  "counter_ideas": [],
   "quotes": [
     {
-      "quote": "",
-      "page": ""
-    }
-  ],
-  "vocabulary": [
+      "quote": "It\u2019s okay to be afraid, but we don\u2019t have to let it rule us. We\u2019re all afraid; it\u2019s what we do when we\u2019re afraid that matters. People are a risk worth taking. Let\u2019s create something new together.",
+      "page": "360"
+    },
     {
-      "word": "",
-      "part_of_speech": "",
-      "pronunciation": "",
-      "definition": ""
+      "quote": "We all felt our world slipping away, in cascades and cataracts, the promises of temporary change becoming less and less temporary. Didn\u2019t we feel so much safer? Weren\u2019t safe and healthy worth more to us than large weddings and overcrowded schools? Hadn\u2019t the pox been spread by people working and attending school when they should have stayed home? Never mind that they didn\u2019t stay home because they couldn\u2019t afford to. The talking heads were in agreement that necessity would fuel innovation. Good things were coming fast, they promised; I stopped watching the news.",
+      "page": "113-114"
     }
   ],
-  "review": "",
+  "vocabulary": [],
+  "review": "I'm not sure how I felt about this one. There are really interesting tracks of techno-dystopia that recall Gibson's Neuromancer or even Huxley's Brave New World, but that world building is gray and hazy, lost in the background of a punk rock anthem. The novel feels more punk rock than it is, the rebel yell contrasted to the inclusivity of music as music and not genre and humanity as a social organism. Corporations are positioned as the antagonizing force here, compelling people to remain cloistered in fear, but there is no real dramatic tension in the novel. The one 'betrayal' that drives tension in the later half of the novel never resolves itself, the language of whom to resist is muddled. \r\n\r\nFurther, there's something in a rebel yell to defy quarantine orders almost a year into covid-19 that rings strident; it's that rebelliousness that has needlessly prolonged a miserable shrinking of life and our ability to congregate. Certainly this argument is Pinkser's strongest, that humans need to come together, to reverse the expulsion from Babel and share in the universal language of music. ",
   "review_score": 3.0,
-  "other_reading": [
-    {
-      "book_title": "",
-      "author": ""
-    }
-  ]
+  "other_reading": []
 }
