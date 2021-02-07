@@ -1,6 +1,15 @@
 {
-  "title": "",
-  "author": "",
+  "title": {
+    "main_title": "",
+    "subtitle": ""
+  },
+  "authors": [
+    {
+      "first_name": "",
+      "last_name": "",
+      "description": ""
+    }
+  ],
   "isbn": "",
   "reason_for_reading": "",
   "publication_date": "",
