@@ -20,13 +20,8 @@
     "flesh_kincaid_reading_level",
     "synopsis",
     "key_takeaway",
-    "key_ideas",
-    "counter_ideas",
-    "quotes",
-    "vocabulary",
     "review",
-    "review_score",
-    "other_reading"
+    "review_score"
   ],
   "properties": {
     "title": {
@@ -93,7 +88,8 @@
       "$id": "#/properties/isbn",
       "type": "string",
       "title": "isbn",
-      "description": "The 13-digit ISBN"
+      "description": "The 13-digit ISBN",
+      "pattern": "^(?=(?:\\D*\\d){10}(?:(?:\\D*\\d){3})?$)[\\d-]+$"
     },
     "reason_for_reading": {
       "$id": "#/properties/reason_for_reading",
