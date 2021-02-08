@@ -2,8 +2,8 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "$id": "http://example.com/example.json",
   "type": "object",
-  "title": "The root schema",
-  "description": "The root schema comprises the entire JSON document.",
+  "title": "The book summary schema",
+  "description": "A schema for various pieces of metadata concerning books.",
   "default": {},
   "required": [
     "title",
@@ -32,8 +32,8 @@
     "title": {
       "$id": "#/properties/title",
       "type": "object",
-      "title": "The title schema",
-      "description": "An explanation about the purpose of this instance.",
+      "title": "book title",
+      "description": "The book's title",
       "default": {},
       "required": [
         "main_title",
@@ -43,16 +43,14 @@
         "main_title": {
           "$id": "#/properties/title/properties/main_title",
           "type": "string",
-          "title": "The main_title schema",
-          "description": "An explanation about the purpose of this instance.",
-          "default": ""
+          "title": "main title",
+          "description": "The main title of the book"
         },
         "subtitle": {
           "$id": "#/properties/title/properties/subtitle",
-          "type": "null",
-          "title": "The subtitle schema",
-          "description": "An explanation about the purpose of this instance.",
-          "default": null
+          "type": ["string", "null"],
+          "title": "subtitle",
+          "description": "The subtitle, if any, of the book"
         }
       },
       "additionalProperties": false
@@ -60,42 +58,32 @@
     "authors": {
       "$id": "#/properties/authors",
       "type": "array",
-      "title": "The authors schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "authors",
+      "description": "The author(s) of the book.",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/authors/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
           "first_name",
-          "last_name",
-          "description"
+          "last_name"
         ],
         "properties": {
           "first_name": {
             "$id": "#/properties/authors/items/properties/first_name",
             "type": "string",
-            "title": "The first_name schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "author's first name"
           },
           "last_name": {
             "$id": "#/properties/authors/items/properties/last_name",
             "type": "string",
-            "title": "The last_name schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "author's last name"
           },
           "description": {
             "$id": "#/properties/authors/items/properties/description",
-            "type": "null",
-            "title": "The description schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": null
+            "type": ["string", "null"],
+            "title": "author's description",
+            "description": "Place for bios or author roles"
           }
         },
         "additionalProperties": false
@@ -104,100 +92,85 @@
     "isbn": {
       "$id": "#/properties/isbn",
       "type": "string",
-      "title": "The isbn schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "isbn",
+      "description": "The 13-digit ISBN"
     },
     "reason_for_reading": {
       "$id": "#/properties/reason_for_reading",
       "type": "string",
-      "title": "The reason_for_reading schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "primary reason for reading"
     },
     "publication_date": {
       "$id": "#/properties/publication_date",
       "type": "string",
-      "title": "The publication_date schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "format": "date",
+      "title": "publication date"
     },
     "original_language": {
       "$id": "#/properties/original_language",
       "type": "string",
-      "title": "The original_language schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "original language",
+      "description": "Even if the book is a translation, use this to store the original language"
     },
     "genre": {
       "$id": "#/properties/genre",
       "type": "string",
-      "title": "The genre schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "genre",
+      "description": "A semi-colon delimited string of genres"
     },
     "start_date": {
       "$id": "#/properties/start_date",
       "type": "string",
-      "title": "The start_date schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "started reading",
+      "format": "date",
+      "description": "When was this book started?"
     },
     "finish_date": {
       "$id": "#/properties/finish_date",
       "type": "string",
-      "title": "The finish_date schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "format": "date",
+      "title": "finished reading",
+      "description": "An explanation about the purpose of this instance."
     },
     "pages": {
       "$id": "#/properties/pages",
       "type": "integer",
-      "title": "The pages schema",
-      "description": "An explanation about the purpose of this instance.",
+      "title": "pages",
       "default": 0
     },
     "word_count": {
       "$id": "#/properties/word_count",
       "type": "integer",
-      "title": "The word_count schema",
-      "description": "An explanation about the purpose of this instance.",
+      "title": "word count",
       "default": 0
     },
     "flesh_kincaid_reading_level": {
       "$id": "#/properties/flesh_kincaid_reading_level",
       "type": "number",
-      "title": "The flesh_kincaid_reading_level schema",
-      "description": "An explanation about the purpose of this instance.",
+      "title": "flesh kincaid reading level ",
+      "description": "Used for flesch-kincaid reading level scored 0-100 from difficulty to ease of reading",
       "default": 0.0
     },
     "synopsis": {
       "$id": "#/properties/synopsis",
       "type": "string",
-      "title": "The synopsis schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "book synopsis"
     },
     "key_takeaway": {
       "$id": "#/properties/key_takeaway",
       "type": "string",
-      "title": "The key_takeaway schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "key takeaway",
+      "description": "What is the key takeaway from reading this book, or the executive summary"
     },
     "key_ideas": {
       "$id": "#/properties/key_ideas",
       "type": "array",
-      "title": "The key_ideas schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "key ideas",
+      "description": "Store the key ideas in topic:text pairings",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/key_ideas/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
           "topic_heading",
           "text"
@@ -206,16 +179,13 @@
           "topic_heading": {
             "$id": "#/properties/key_ideas/items/properties/topic_heading",
             "type": "string",
-            "title": "The topic_heading schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "topic heading",
+            "description": "A overarching theme for the key idea"
           },
           "text": {
             "$id": "#/properties/key_ideas/items/properties/text",
             "type": "string",
-            "title": "The text schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "key idea text"
           }
         },
         "additionalProperties": false
@@ -224,34 +194,27 @@
     "counter_ideas": {
       "$id": "#/properties/counter_ideas",
       "type": "array",
-      "title": "The counter_ideas schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "counter ideas",
+      "description": "Store the ideas that might contest the main ideas of the book in topic:text pairings",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/counter_ideas/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
-          "topic heading",
+          "topic_heading",
           "text"
         ],
         "properties": {
-          "topic heading": {
-            "$id": "#/properties/counter_ideas/items/properties/topic%20heading",
+          "topic_heading": {
+            "$id": "#/properties/counter_ideas/items/properties/topic_heading",
             "type": "string",
-            "title": "The topic heading schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "topic heading",
+            "description": "A overarching theme for the counter idea"
           },
           "text": {
             "$id": "#/properties/counter_ideas/items/properties/text",
             "type": "string",
-            "title": "The text schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "counter idea text"
           }
         },
         "additionalProperties": false
@@ -260,16 +223,12 @@
     "quotes": {
       "$id": "#/properties/quotes",
       "type": "array",
-      "title": "The quotes schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "quotes",
+      "description": "Prominent quotes from the book.",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/quotes/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
           "quote",
           "page"
@@ -278,16 +237,12 @@
           "quote": {
             "$id": "#/properties/quotes/items/properties/quote",
             "type": "string",
-            "title": "The quote schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "quote text"
           },
           "page": {
             "$id": "#/properties/quotes/items/properties/page",
             "type": "string",
-            "title": "The page schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "quote page"
           }
         },
         "additionalProperties": false
@@ -296,16 +251,12 @@
     "vocabulary": {
       "$id": "#/properties/vocabulary",
       "type": "array",
-      "title": "The vocabulary schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "vocabulary",
+      "description": "new words learned from the book",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/vocabulary/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
           "word",
           "part_of_speech",
@@ -316,30 +267,23 @@
           "word": {
             "$id": "#/properties/vocabulary/items/properties/word",
             "type": "string",
-            "title": "The word schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "word"
           },
           "part_of_speech": {
             "$id": "#/properties/vocabulary/items/properties/part_of_speech",
             "type": "string",
-            "title": "The part_of_speech schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "part of speech"
           },
           "pronunciation": {
             "$id": "#/properties/vocabulary/items/properties/pronunciation",
             "type": "string",
-            "title": "The pronunciation schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "pronunciation",
+            "description": "Phonetic pronunciation"
           },
           "definition": {
             "$id": "#/properties/vocabulary/items/properties/definition",
             "type": "string",
-            "title": "The definition schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "definition"
           }
         },
         "additionalProperties": false
@@ -348,30 +292,24 @@
     "review": {
       "$id": "#/properties/review",
       "type": "string",
-      "title": "The review schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": ""
+      "title": "review"
     },
     "review_score": {
       "$id": "#/properties/review_score",
       "type": "number",
-      "title": "The review_score schema",
-      "description": "An explanation about the purpose of this instance.",
+      "title": "review score",
+      "description": "A review on a scale of 0-5 in half point increments",
       "default": 0.0
     },
     "other_reading": {
       "$id": "#/properties/other_reading",
       "type": "array",
-      "title": "The other_reading schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": [],
+      "title": "other reading",
+      "description": "Any other follow on books (sequels, references, etc)",
       "additionalItems": true,
       "items": {
         "$id": "#/properties/other_reading/items",
         "type": "object",
-        "title": "The items schema",
-        "description": "An explanation about the purpose of this instance.",
-        "default": {},
         "required": [
           "book_title",
           "author"
@@ -380,16 +318,12 @@
           "book_title": {
             "$id": "#/properties/other_reading/items/properties/book_title",
             "type": "string",
-            "title": "The book_title schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "book title"
           },
           "author": {
             "$id": "#/properties/other_reading/items/properties/author",
             "type": "string",
-            "title": "The author schema",
-            "description": "An explanation about the purpose of this instance.",
-            "default": ""
+            "title": "The author schema"
           }
         },
         "additionalProperties": false
